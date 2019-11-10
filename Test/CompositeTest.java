@@ -2,9 +2,15 @@ package MyFarm;
 
 import MyFarm.Barn.BoxOfBarn;
 import MyFarm.Barn.ItemOfBarn;
+import org.junit.Test;
 
 public class CompositeTest {
-    public static void main(String[] args) {
+    /**
+     * 组合模式测试
+     * 无问题
+     */
+    @Test
+    public void adapterTest(){
         BoxOfBarn boxOfBarn1=new BoxOfBarn("1");
         BoxOfBarn boxOfBarn2=new BoxOfBarn("2");
         BoxOfBarn boxOfBarn3=new BoxOfBarn("3");

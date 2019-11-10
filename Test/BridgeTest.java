@@ -6,9 +6,15 @@ import MyFarm.farmland.BaseLand;
 import MyFarm.farmland.BuildingLand;
 import MyFarm.farmland.FarmLand;
 import MyFarm.plants.Crop;
+import org.junit.Test;
 
 public class BridgeTest {
-    public static void main(String[] args) {
+    /**
+     * 桥接模式测试
+     * 问题1：类图里两个同名的FarmLand同时继承于一个类
+     */
+    @Test
+    public void bridgeTest(){
         BaseLand baseLand;
         baseLand = new BuildingLand();
         BaseLand baseLand2=new FarmLand() {

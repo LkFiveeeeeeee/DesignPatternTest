@@ -1,2 +1,1 @@
-# Town-of-Paradise
-Final Project
+Design pattern test for group 13

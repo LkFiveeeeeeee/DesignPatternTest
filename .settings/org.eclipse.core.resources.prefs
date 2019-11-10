@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/MyFarm/Test.java=UTF-8
+encoding//src/MyFarm/animals/BaseAnimal.java=UTF-8
+encoding//src/MyFarm/animals/Pig.java=UTF-8
+encoding//src/MyFarm/farmland/BaseLand.java=UTF-8
+encoding//src/MyFarm/farmland/BuildingLand.java=UTF-8
+encoding//src/MyFarm/plants/BasePlant.java=UTF-8

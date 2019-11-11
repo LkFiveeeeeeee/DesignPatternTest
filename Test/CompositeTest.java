@@ -1,5 +1,3 @@
-package MyFarm;
-
 import MyFarm.Barn.BoxOfBarn;
 import MyFarm.Barn.ItemOfBarn;
 import org.junit.Test;

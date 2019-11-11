@@ -1,5 +1,3 @@
-package MyFarm;
-
 import MyFarm.animalState.Adapter;
 import MyFarm.animalState.ConcreateDuck;
 import MyFarm.animals.Duck;

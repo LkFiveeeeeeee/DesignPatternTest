@@ -1,5 +1,3 @@
-package MyFarm;
-
 import MyFarm.animals.Dog;
 import MyFarm.animals.Pig;
 import MyFarm.farmland.BaseLand;
